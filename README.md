@@ -53,7 +53,7 @@ Mobile: Stack layout with smaller spacing, touch-friendly buttons
 
 Clone the repository:
 
-git clone https://github.com/yourusername/todo-list.git
+git clone https://github.com/hassanasif653/TO-DO-APP.git
 
 
 Open the index.html file in any modern browser.
